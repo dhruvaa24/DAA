@@ -1,2 +1,2 @@
 # DAA
-this is repository for design and analysis of algorithm 
+This is a repository for design and analysis of algorithm 
